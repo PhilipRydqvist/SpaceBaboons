@@ -5,6 +5,10 @@ Fanny
 Axel Twedmark
 
 function Jacob() {
-    drink: monster;
-}
 
+    if(inSchool){
+      drink = Monster;
+    }else{
+      drink = water;
+    }
+}
