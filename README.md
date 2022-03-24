@@ -1,10 +1,11 @@
 # SpaceBaboons
 
-nr1 Philip Rydqvist
 
+Philip Rydqvist
 Fanny
 Axel Twedmark
 
 function Jakob() {
     drink: monster;
 }
+
