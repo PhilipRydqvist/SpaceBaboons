@@ -1,11 +1,10 @@
 # SpaceBaboons
 
-
-Philip Rydqvist
+[Philip Rydqvist](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 Fanny
 Axel Twedmark
 
-function Jakob() {
+function Jacob() {
     drink: monster;
 }
 
