@@ -2,6 +2,9 @@
 
 nr1 Philip Rydqvist
 
-Jacob
 Fanny
 Axel Twedmark
+
+function Jakob() {
+    drink: monster;
+}
