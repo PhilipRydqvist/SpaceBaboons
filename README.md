@@ -1,10 +1,10 @@
 # SpaceBaboons
 
-Jacob
+#Jacob
 
-Fanny 
+#Fanny 
 
-Axel Twedmark 
+#Axel Twedmark 
  
  
  
@@ -33,4 +33,5 @@ Axel Twedmark
  .
  
  .
- nr4 Philip Rydqvist
+ 
+ ~~nr4 Philip Rydqvist~~
