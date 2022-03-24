@@ -1,7 +1,36 @@
 # SpaceBaboons
 
-nr1 Philip Rydqvist
-
 Jacob
-Fanny
-Axel Twedmark
+
+Fanny 
+
+Axel Twedmark 
+ 
+ 
+ 
+ .
+ 
+ .
+ 
+ .
+ 
+ .
+ 
+ .
+ 
+ .
+ 
+ .
+ 
+ .
+ 
+ .
+ 
+ .
+ 
+ .
+ 
+ .
+ 
+ .
+ nr4 Philip Rydqvist
